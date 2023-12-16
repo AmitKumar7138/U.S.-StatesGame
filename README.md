@@ -47,7 +47,7 @@ Feel free to fork the repository, make changes, and submit pull requests. All co
 This project is open-source. See the LICENSE file for more details.
 
 ## Contact
-[Your Contact Information]
+amitprataprana41@gmail.com
 
 ## Acknowledgements
 - Thanks to all who contributed to the development and testing of this educational tool.
